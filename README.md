@@ -1,1 +1,3341 @@
 # JobConnect-Pro
+<!DOCTYPE
+<title>JobConnect
+class="container
+items-center">
+id="mobile-menu-button"
+class="fas
+class="text-2xl
+fa-handshake
+html>
+<html l
+"725b722720f079c279b3e79989b2f4d1"></script>
+mx-auto
+fa-bars
+font-bold
+mr-2"></i>
+ang="en">
+text-2xl"></i>
+<head>
+Platform</title>
+items-center
+class="md:hidden f
+<meta
+      charset="UTF-8">
+content="width=device-width, i
+<meta
+name="viewport"
+   nitial-scale=1.0">
+  Pro -
+Hiring
+<script
+    <link
+  rel="stylesheet"
+ href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/
+ css/all.min.css">
+<style>
+/*
+Custom
+CSS for {
+elements
+justify-between
+need
+     more
+specific
+styling
+*/ .g
+radient-bg
+background:
+     linear-gradient(135deg, #3
+b82f6
+0%,
+#8b5cf6
+   100%); }
+transform: t
+box-shadow:
+20px 2
+.job-card:hover {
+5px
+-5px
+ranslateY(-5px);
+-5px
+rgba(0,
+0.04);
+}.
+video-containe
+rgba(0,
+0, 0, 0.1), 0 10px 10px
+{ position:
+relative;
+padding-bottom:
+56.25%;
+height:
+0;
+r
+hidden;
+}
+iframe
+    position:
+absolute;
+overflow:
+width:
+.video-container
+  100%;
+height:
+    100%;
+}{
+.sidebar
+top: 0; left: 0; all 0.3s
+ transition:
+ease;
+}
+@media
+    768px)
+{{
+50; top: 0; left: 0; }}
+.sidebar
+transform:
+(max-width:
+  position:
+fixed;
+    z-index:
+height:
+translateX(-100%);
+  100vh;
+}
+{
+transform:
+   translateX(0);
+{t
+ransition:
+.sidebar.open
+  width
+0.5s
+ease;
+    </style>
+</head>
+.progress-bar
+ <body cl
+ass="bg-gray-50">
+<!--
+Navigation
+      <nav
+class="gradient-bg t
+ext-white
+shadow-lg">
+    px-4
+py-3
+flex
+     <div
+class="flex
+</button>
+items-center">
+space-x-4">
+href="#"
+<button
+     ocus:outline-none">
+   <a <i
+     flex
+class="fas
+    Pro</span>
+</a>
+   </div>
+<div
+class="hover:text-blue-200">Find
+<span>JobConnect
+  md:flex
+items-center
+space-x-6">
+    href="#"
+class="hidden
+ class="hover:text-blue-200">Home</a>
+<a
+href="#jobs"
+   Jobs</a>
+<a
+href="#employers"
+   class="hover:text-blue-200">For
+href="#contact"
+class="flex i
+Employers</a>
+  href="#pricing" c
+lass="hover:text-blue-200">Pricing</a>
+  class="hover:text-blue-200">Contact</a>
+</div>
+   tems-center
+space-x-4">
+<button
+id="login-btn"
+     class="bg-white
+font-medium
+<button
+class="hidden
+</button>
+id="sidebar"
+class="p-4
+text-blue-600
+hover:bg-blue-50
+font-medium
+</div>
+class="sidebar
+border-b">
+md:block
+</div>
+px-4
+</nav>
+bg-white
+<div
+py-2 r
+transition">
+bg-blue-800
+hover:bg-blue-900
+w-64
+class="flex
+ounded-lg
+     Login
+shadow-lg
+</button>
+     text-white
+Sidebar
+px-4
+py-2
+       rounded-lg
+transition">
+    <!--
+Mobile
+       md:hidden">
+         items-center">
+class="text-xl
+justify-between
+ <span
+font-bold">Menu</span>
+    <button
+id="close-sidebar"
+ class="fas
+fa-times"></i>
+class="focus:outline-none">
+  </button>
+</div>
+</div>
+     src = that
+0                                 0, 0, {
+<i
+<div
+Job <div
+}
+-->
+<div
+<a
+<a
+<a
+Post a --> <div
+<div <i
+
+Post a Job <i <div
+<h2
+<a
+class="p-4">
+hover:text-blue-600">Home</a>
+text-gray-700
+href="#employers"
+hover:text-blue-600">For
+class="block
+hover:text-blue-600">Pricing</a>
+md:py-24">
+flex-col
+mb-6">Connect
+class="text-xl
+automated
+tracking.</p>
+text-blue-600
+md:flex-row
+hover:bg-blue-50
+ml-2"></i>
+job
+<div
+href="#"
+class="block
+text-gray-700
+class="container
+mb-8">The
+imports,
+px-6
+</button>
+Talent
+class="block
+hover:text-blue-600">Find
+Employers</a>
+video i
+class="flex
+sm:space-x-4">
+transition">
+With
+Great
+nterviews,
+flex-col
+rounded-lg
+py-2
+<div
+comprehensive
+text-gray-700
+     <a
+href="#jobs"
+text-gray-700
+Companies</h1>
+sm:flex-row
+font-medium
+class="block
+   py-2
+Jobs</a>
+    py-2
+    href="#pricing"
+   py-2
+   href="#contact"
+class="block
+   py-2
+text-gray-700
+  class="mt-4
+transition">
+Section
+-->Post a Job <div
+<section
+hover:text-blue-600">Contact</a>
+ pt-4
+border-t">
+</button>
+<button
+class="gradient-bg
+</div>
+class="w-full
+</div>
+text-white
+bg-blue-600
+     text-white
+px-4
+py-2
+rounded-lg
+font-medium h
+over:bg-blue-700
+      </div>
+py-16
+<!--
+class="flex
+Hero
+            mx-auto
+px-4">
+<div
+     mb-10
+   md:mb-0">
+items-center">
+class="text-4xl
+md:text-5xl
+class="md:w-1/2
+  <h1
+font-bold
+    Top
+    most
+hiring
+platform
+      and
+advanced
+candidate
+      space-y-4
+     sm:space-y-0
+<button
+class="bg-white
+    py-3
+     Find
+Jobs
+<i
+class="fas
+fa-search
+     <button
+text-white
+    </div>
+gap-4">
+py-3
+class="rounded-lg
+Title</label>
+Engineer"
+<input
+rounded-lg
+class="md:w-1/2
+"333573c19c953065c133b79abf87d1c4"
+type="text"
+<label
+font-medium
+shadow-xl
+class="block
+type="text"
+px-4
+placeholder="e.g.
+class="bg-blue-800
+ px-6
+py-2
+hover:bg-blue-900
+justify-center">
+text-gray-700
+placeholder="e.g.
+transition">
+      class="fas
+fa-briefcase
+ml-2"></i> <
+/button>
+mb-2">Job
+</div>
+     flex
+<img
+    alt="Hiring Pl
+max-w-md">
+atform"
+   w-full
+</div>
+</div>
+      </div>
+<!--
+-->
+ class="py-16
+</section>
+class="text-3xl
+Job</h2>
+bg-white">
+Search
+Job <div
+Search
+--> <div
+Section
+class="container
+mb-12">Find
+<section i
+mx-auto px
+d="jobs"
+      -4">
+     font-bold
+text-center
+Dream
+     <!--
+Filters
+class="bg-gray-100
+     rounded-lg
+<div>
+mb-8">
+<div
+class="grid
+grid-cols-1
+md:grid-cols-4
+           <input
+Software
+     border
+   focus:outline-none
+class="w-full
+focus:ring-2
+rounded-lg
+   focus:ring-blue-500">
+class="w-full
+</div>
+    <div>
+<label
+class="block
+text-gray-700
+    New
+mb-2">Location</label>
+ York"
+px-4
+      py-2
+border
+rounded-lg
+   focus:ring-blue-500">
+focus:outline-none
+<label c
+focus:ring-2
+  </div>
+<div>
+lass="block
+     text-gray-700
+border
+mb-2">Job
+rounded-lg
+Type</label>
+focus:outline-none
+<select
+class="w-full
+focus:ring-2
+px-4
+      py-2
+     focus:ring-blue-500">
+<option>All
+Types</option>
+   <a
+<a <a
+<div
+<p
+with
+src = Your p-6
+
+<option>Full-time</option>
+<option>Contract</option>
+bg-blue-600
+hover:bg-blue-700
+fa-search
+class="flex i
+text-white
+ml-2"></i>
+--> <div
+transition">
+</button>
+<option>Part-time</option>
+  <option>Remote</option>
+tems-end">
+py-2 r
+<button
+ounded-lg
+class="w-full
+font-medium
+</select>
+   </div>
+<div
+     px-4
+      Search
+Jobs
+<i
+class="fas
+     </div>
+</div>
+</div>
+<!--
+       Listings
+class="grid
+grid-cols-1
+md:grid-cols-2
+    lg:grid-cols-3
+gap-6">
+<!--
+Job
+Card
+1 --> <div
+class="job-card
+     bg-white
+border
+rounded-lg
+overflow-hidden
+shadow-md
+     transition
+<div
+ class="flex
+duration-300
+ease-in-out">
+items-start
+class="p-6">
+   mb-4">
+<div>
+    class="text-xl
+justify-between
+ font-bold">Senior
+class="text-gray-600">TechSolutions
+Software
+Engineer</h3>
+    Inc.</p>
+</div>
+   class="bg-blue-100
+text-blue-800
+px-3
+py-1 <i<div
+rounded-full
+text-sm
+     font-medium">
+items-center
+fa-map-marker-alt
+Remote
+text-gray-600
+</div>
+mr-2"></i>
+</div>
+<span>San
+class="flex
+     mb-4">
+class="fas
+    Francisco,
+    (Remote)</span>
+text-gray-600
+<span>$120,000
+-
+</div>
+<i <div
+$150,000/year</span>
+class="flex
+items-center
+    mb-4">
+class="fas
+fa-dollar-sign
+  </div>
+mr-2"></i>
+      class="text-gray-700
+software
+engineer
+mb-4">We're
+team
+looking
+   build
+   generation
+to join our
+ of our
+platform.</p>
+class="flex j
+ustify-between
+    items-center">
+<span
+ ago</span>
+transition">
+overflow-hidden
+ease-in-out">
+Apply
+<button
+Now
+class="text-sm
+shadow-md
+<div
+</button>
+class="p-6">
+</div>
+<div c
+text-gray-500">Posted
+   </div>
+duration-300
+text-white
+</div>
+px-4
+    rounded-lg t
+ext-sm
+class="bg-blue-600
+ py-2
+font-medium
+hover:bg-blue-700
+     <!--
+       Card
+2 --> <div
+class="job-card
+bg-white
+border
+rounded-lg
+     transition
+    lass="flex
+  items-start
+mb-4">
+<div>
+<h3
+class="text-xl
+justify-between
+  font-bold">Marketing
+     Manager</h3>
+Co.</p>
+</div>
+<p <div
+class="text-gray-600">Growth
+Marketing
+   x-3
+  rounded-full
+class="bg-green-100
+text-sm
+text-green-800 p
+   Full-time
+</div>
+</div>
+    class="flex
+class="fas
+mb-4">Lead
+items-center
+class="flex
+marketing
+justify-between
+text-gray-500">Posted
+1
+font-medium">
+  text-gray-600
+items-center t
+mr-2"></i>
+to and
+items-center">
+week
+ext-gray-600
+develop
+ago</span>
+mb-4">
+<button
+execute
+<i
+class="fas
+     fa-map-marker-alt
+mr-2"></i>
+<span>New
+York,
+NY</span>
+     </div>
+<div
+mb-4">
+       $110,000/year</span>
+fa-dollar-sign
+<span>$90,000
+  </div>
+<p
+class="text-gray-700
+   our
+team
+and
+strategies
+      drive
+class="flex
+customer
+acquisition
+brand
+awareness.</p>
+     <span
+class="text-sm
+         class="bg-blue-600
+text-white
+px-4
+py-2
+rounded-lg
+text-sm
+       days
+py-1 <div
+that
+2 Job
+and help <div
+Job
+<div <h3 <p
+<div
+CA
+<p
+for an experienced
+the next
+<i -
+<div
+
+for our
+<p
+1 --> <div <div
+Job jobs to your
+2 --> <div
+<div
+<i <p <h3
+Now
+<div <h3
+<p
+<div py-1
+<div IL
+font-medium
+</div>
+bg-white
+text-gray-600
+<span>$50
+mb-4">Join
+</div>
+border
+clients
+text-gray-500">Posted
+class="bg-blue-600
+</div>
+<button
+</div>
+-$ our
+hover:bg-blue-700
+</div>
+70/hour</span>
+across
+</div>
+class="bg-white
+various
+class="fas
+text-white p
+</div>
+transition">
+</div>
+3 --> <div
+fa-dollar-sign
+o</span>
+beautiful,
+Apply
+class="job-card
+</button>
+     <!--
+Job
+Card
+        transition
+duration-300
+rounded-lg
+overflow-hidden
+ease-in-out">
+shadow-md
+   <div
+class="p-6">
+    class="flex
+justify-between
+items-start
+mb-4">
+<div>
+     class="text-xl
+Designer</h3>
+ class="bg-purple-100
+text-sm
+font-bold">UX/UI
+  class="text-gray-600">Creative
+text-purple-800
+Design
+Studio</p>
+</div>
+    px-3
+rounded-full
+    Contract
+</div>
+</div>
+class="flex
+    items-center
+font-medium">
+  fa-map-marker-alt
+(Hybrid)</span>
+text-gray-600
+mb-4">
+<i
+class="fas
+    mr-2"></i>
+<span>Chicago,
+   </div>
+<div <i
+class="flex
+items-center
+    mb-4">
+mr-2"></i>
+     <p
+   design
+team t
+o
+create
+class="text-gray-700
+ intuitive
+    class="flex
+interfaces
+   <div
+   justify-between
+items-center"> <
+industries.</p>
+  span
+class="text-sm
+    3 days ag
+<button
+   x-4
+py-2
+border-blue-600
+rounded-lg
+text-sm
+      font-medium
+hover:bg-blue-700 t
+ransition">
+Apply
+Now
+</button>
+     <div
+mt-8">
+     border
+class="text-center
+ text-blue-600
+     px-6
+py-3
+transition">
+   View
+All
+Imports</h3>
+Jobs
+Indeed,
+class="bg-white
+class="text-blue-600
+rounded-lg
+</section>
+font-medium
+class="text-gray-700">Automatically
+hover:bg-blue-50
+   <i
+Employers
+Section
+</button>
+   </div>
+</div>
+class="fas
+fa-arrow-right
+<!--
+ml-2"></i>
+   For
+-->
+<section
+       id="employers"
+class="py-16
+bg-gray-100">
+<div
+  mx-auto
+px-4">
+<h2
+class="text-3xl
+font-bold
+class="container
+  text-center
+     mb-12">Hire
+grid-cols-1
+class="bg-white
+class="text-blue-600
+Smarter
+md:grid-cols-3
+With
+mb-4">
+JobConnect
+gap-8
+mb-12">
+ass="fas
+Pro</h2>
+<div
+Feature
+text-center">
+class="grid
+     <!--
+      p-6
+rounded-lg s
+hadow-md
+    <i cl
+fa-bolt
+text-4xl"></i>
+     </div>
+<h3
+class="text-xl
+font-bold
+mb-3">Automated
+    <p
+import
+   from
+class="text-xl
+and
+rounded-lg
+font-bold
+other
+platforms
+shadow-md
+mb-3">Video
+expand
+    candidate
+ZipRecruiter,
+  pool.</p>
+</div>
+<!--
+Feature
+     p-6
+text-center">
+    mb-4">
+<ic
+lass="fas
+fa-video
+text-4xl"></i>
+     </div>
+<h3
+    class="text-gray-700">Conduct
+interviews
+in our
+3 --> <div
+<div c
+live or with
+pre-recorded
+Interviews</h3>
+ evaluation
+video
+   directly
+platform
+built-in
+tools.</p>
+      </div>
+<!--
+Feature
+p-6
+  shadow-md
+class="fas
+font-bold
+text-center">
+fa-chart-line
+mb-3">Advanced
+text-4xl"></i>
+class="bg-white
+lass="text-blue-600
+rounded-lg
+   mb-4">
+    </div>
+class="text-xl
+     Analytics</h3>
+   
+class="text-gray-700">Track
+effectiveness,
+dashboard.</p>
+</div> <
+/div>
+candidate
+with our <div
+<div <h3
+progress,
+comprehensive
+source
+    and
+hiring
+metrics
+    rounded-lg
+   shadow-xl
+class="md:w-1/2
+mb-4">Complete
+overflow-hidden">
+Hiring
+Solution</h3>
+class="bg-white
+  class="md:flex">
+   p-8
+md:p-12">
+class="text-2xl
+ <p
+font-bold
+      mb-6">From
+tools
+sourcing
+need
+screening
+to   to to find and hire top
+<div
+hiring,
+class="text-gray-700
+ our
+platform
+provides
+     you
+talent
+efficiently.</p>
+class="space-y-4">
+class="text-green-500
+class="flex it
+mt-1
+mr-3"> <
+ems-start">
+class="fas
+fa-check-circle"></i>
+</div>
+<div> <
+   class="font-bold">Applicant
+Tracking
+System</h4>
+   class="text-gray-600
+through
+class="flex
+class="fas
+every
+items-start">
+text-sm">Organize
+of your <div
+fa-check-circle"></i>
+process.</p>
+and
+class="text-green-500
+manage
+</div>
+candidates
+    stage
+hiring
+</div>
+       mt-1
+mr-3">
+     </div>
+<div>
+    class="font-bold">Automated
+Screening</h4>
+  class="text-gray-600
+text-sm">Custom
+questionnaires
+   assessments
+class="flex
+class="fas
+class="text-gray-600
+to filter
+items-start">
+candidates.</p>
+fa-check-circle"></i>
+</div>
+class="text-green-500
+</div>
+    <div
+mt-1
+mr-3">
+     </div>
+<div>
+    class="font-bold">Collaborative
+Hiring</h4>
+text-sm">Share
+feedback
+notes
+ team
+to
+make
+better
+hiring
+</div>
+</div>
+p-8">
+Dashboard"
+<button
+class="text-3xl
+src =
+class="mt-8
+decisions.</p>
+bg-blue-600
+"3a34fc9c35bbf39bfc969187de694c26"
+class="rounded-lg
+shadow-md">
+text-white
+</div>
+ px-6
+py-3
+       rounded-lg
+font-medium
+transition">
+   Started
+class="fas f
+hover:bg-blue-700
+ <i
+ml-2"></i>
+</button>
+</div>
+     class="md:w-1/2
+a-arrow-right
+ bg-gray-50
+flex
+items-center
+justify-center
+    <img
+alt="Hiring
+    </div>
+</div>
+</div>
+      </div>
+<!--
+Pricing
+-->
+  class="py-16
+</section>
+bg-white">
+<div
+Section
+class="container
+<section
+   mx-auto
+id="pricing"
+  px-4">
+     font-bold
+text-center
+mb-4">Simple,
+    Transparent
+text-center
+border-b">
+class="text-gray-600
+hiring
+needs</p>
+Pricing</h2>
+mb-12">Choose
+class="text-xl
+<div
+mb-4">For
+class="text-xl
+<p
+the plan that fits your
+text-gray-600
+    hiring
+mb-2">Basic</h3>
+needs</p>
+    class="grid
+gap-8
+max-w-5xl
+   mx-auto">
+grid-cols-1
+Basic
+md:grid-cols-3
+  <!--
+class="border
+rounded-lg
+    shadow-sm
+hover:shadow-md
+Plan --> <div
+ transition">
+<div
+class="p-6
+    <h3
+font-bold
+    small
+businesses
+with
+occasional
+     <span
+   font-bold">$99</span>
+class="mb-4">
+class="text-4xl
+  <span
+  class="text-gray-600">/month</span>
+</div>
+<button
+   class="w-full
+bg-gray-200
+text-gray-800
+px-4
+py-2
+rounded-lg
+      <div
+all the                       <div <div
+<i
+<i
+your                       and with
+<div
+<h2 <div
+i h4
+<p
+<div
+<p <h4
+and skill <div
+<p <h4
+Get
+<p
+
+Get
+<li
+font-medium
+</button> <
+<span>50
+items-center">
+<span>Basic
+items-center
+hover:bg-gray-300
+Candidate
+Applications</span>
+class="fas
+transition">
+Questions</span> <
+</li>
+text-green-500
+Started
+    /div>
+<div
+<ul cl
+ class="flex i
+class="p-6">
+class="fas f
+ass="space-y-3">
+   <i
+a-check
+text-green-500
+   mr-2"></i>
+tems-center">
+  <span>1
+Job
+</li>
+<li
+class="flex
+    items-center">
+class="fas
+Posting</span>
+ <i
+fa-check
+text-green-500
+mr-2"></i>
+     <li
+class="flex
+     <i
+fa-check
+mr-2"></i>
+     Screening
+/li>
+<li
+class="flex
+     <i
+class="fas
+fa-times
+text-red-400
+   mr-2"></i>
+text-gray-400">
+  <span>No
+Video
+</li>
+<li
+class="flex
+     items-center
+text-gray-400">
+Interviews</span>
+ <i
+class="fas
+fa-times
+text-red-400
+     mr-2"></i>
+<span>No
+Automated
+Job Plan
+Imports</span>
+</li>
+</ul>
+      </div>
+</div>
+class="border-2
+transform
+<!--
+scale-105
+Professional
+border-blue-500
+(Featured)
+     rounded-lg
+shadow-md
+    z-10">
+<div cl
+text-white
+    text-center
+POPULAR</span>
+rounded-t-lg">
+</div>
+ass="bg-blue-500
+ py-2
+<span
+class="p-6
+class="font-bold">MOST
+     <div
+border-b">
+    class="text-xl
+font-bold
+mb-2">Professional</h3>
+   class="text-gray-600
+mb-4">For
+class="mb-4">
+growing
+businesses
+    hiring</p>
+<div
+<span
+class="text-4xl
+    font-bold">$299</span>
+<span
+  class="text-gray-600">/month</span>
+</div>
+<button
+   class="w-full
+font-medium
+</button> <
+<span>5
+items-center">
+<span>Automated
+<!--
+Video
+Enterprise
+bg-blue-600
+hover:bg-blue-700
+Interviews</span>
+Job
+Plan --> <div
+text-white
+Imports</span>
+px-4
+transition">
+py-2
+class="flex
+rounded-lg
+      Get
+Started
+    /div>
+<div
+<ul
+ class="flex i
+class="p-6">
+class="fas
+class="space-y-3">
+   <i
+fa-check
+text-green-500
+   mr-2"></i>
+tems-center">
+  <span>5
+Job
+Postings</span>
+</li>
+<li
+class="flex
+     items-center">
+<span>Unlimited
+items-center">
+<span>Advanced
+<i
+class="fas
+Applications</span>
+Screening</span>
+fa-check
+text-green-500
+</li>
+text-green-500
+class="flex
+mr-2"></i>
+     <li
+    <i
+class="fas
+fa-check
+mr-2"></i>
+     </li>
+<li
+class="flex
+    items-center">
+<i
+class="fas
+fa-check t
+mr-2"></i>
+    </li>
+ext-green-500
+ <li
+     <i
+class="fas
+fa-check t
+ext-green-500
+ </li>
+</ul>
+</div>
+mr-2"></i>
+    </div>
+      class="border
+rounded-lg
+    shadow-sm
+border-b">
+hover:shadow-md
+transition">
+<div
+class="p-6
+    <h3
+font-bold
+class="text-gray-600
+class="text-xl
+mb-4">For
+mb-2">Enterprise</h3>
+large
+organizations
+high-volume
+hiring</p>
+<div
+class="mb-4">
+<span
+class="text-4xl
+font-bold">$599</span>
+<span
+  class="text-gray-600">/month</span>
+class="w-full
+font-medium
+bg-gray-200
+hover:bg-gray-300
+text-gray-800
+</div>
+<button
+   px-4
+py-2
+rounded-lg
+      transition">
+Started
+    --> <div <p <h3
+with regular
+<li
+ <p                           with Get
+
+just one job? Try our
+<div to post <div
+job
+Post
+<div 1
+<i is
+a Job <div
+--> <div
+Pro has save us
+src =
+<div
+<i
+<div       <ul
+<li
+</button> <
+class="flex i
+mr-2"></i>
+<span>Premium
+</div>
+class="flex
+Testimonials
+mr-2">
+<div<h3
+mr-2">$300</span>
+/div>
+tems-center">
+<span>Unlimited
+class="mt-12
+text-center">Pay-Per-Posting
+class="mb-4
+md:flex-row
+class="container
+class="grid
+class="fas
+fa-star"></i>
+md:mb-0">
+items-center">
+grid-cols-1
+class="fas
+fa-star"></i>
+</div>
+class="p-6">
+  Imports</span>
+mx-auto
+class="fas
+md:grid-cols-3
+fa-star"></i>
+<span
+px-4">
+class="fas
+class="space-y-3">
+ <i Job
+fa-check t
+ Postings</span>
+class="py-16
+<h2 Our
+gap-8">
+class="fas
+fa-star"></i>
+ext-green-500
+  </li>
+    class="flex i
+mr-2"></i>
+class="flex i
+tems-center">
+<span>Unlimited
+tems-center">
+<i
+class="fas
+Applications</span>
+fa-check t
+ext-green-500
+     </li>
+    <i
+class="fas
+fa-check t
+   mr-2"></i>
+<span>Unlimited
+items-center">
+<span>Custom
+Video
+<i Job
+class="fas
+Screening</span>
+Interviews</span>
+</li>
+text-green-500
+</li>
+</ul>
+ext-green-500
+  <li
+class="flex
+     items-center">
+<i
+class="fas
+fa-check
+text-green-500
+mr-2"></i>
+     </li>
+<li
+class="flex
+     fa-check
+ </div>
+mr-2"></i>
+    bg-gray-100">
+</div>
+      class="text-2xl
+bg-gray-100
+items-center
+font-bold
+Option</h3>
+p-8
+class="text-3xl
+rounded-lg
+font-bold
+max-w-4xl
+     mx-auto">
+mb-4
+    class="flex
+   flex-col
+justify-between">
+    <p
+class="text-gray-700">Need
+   pay-per-posting
+option.</p>
+</div>
+   <span
+     <span
+class="text-gray-600">per
+   posting</span>
+<button
+class="ml-6
+bg-blue-600
+text-white
+px-6
+      py-2
+rounded-lg
+</button>
+Section
+font-medium
+</div>
+</div>
+<section
+hover:bg-blue-700 t
+</div>
+ransition">
+     </div>
+</section>
+<!--
+       -->
+     class="text-3xl
+    font-bold
+text-center
+mb-12">What
+Customers
+Say</h2>
+     <!--
+Testimonial
+      p-6
+rounded-lg
+ class="flex
+class="bg-white
+items-center
+shadow-md">
+  mb-4">
+<div <i
+class="text-yellow-400
+    <i
+fa-star"></i>
+     <i
+<i
+class="fas
+     weeks
+    ago</span>
+</div>
+<p our
+class="text-gray-600">2
+ class="text-gray-700
+mb-4">"JobConnect
+    transformed
+of
+work
+hiring
+process.
+The a and the
+utomated
+job
+imports
+     text-sm">HR
+<!--
+hours
+Testimonial
+class="text-yellow-400
+class="fas
+Director,
+each
+"17e62166fc8586dfa4d1bc0e1742c08b" a
+week,
+TechStart
+video
+interview
+feature
+       incredibly
+convenient."</p>
+<div
+class="flex i
+tems-center">
+<img
+     lt="Sarah
+Johnson"
+   class="w-12
+class="font-bold">Sarah
+h-12
+rounded-full
+mr-4">
+Johnson</h4>
+Inc.</p>
+<div>
+    <p
+class="text-gray-600
+   </div>
+</div>
+</div>
+       class="fas
+class="fas
+p-6
+rounded-lg
+   shadow-md">
+2 --> <div <div
+class="flex
+class="bg-white
+ items-center
+mb-4">
+    mr-2">
+<i
+fa-star"></i>
+    <i
+<i
+class="fas
+   fa-star"></i>
+fa-star"></i>
+class="fas
+fa-star"></i>
+fa-star"></i>
+  </div>
+<span
+     <li <li
+<div
+<h4
+<div
+<i
+
+class="text-gray-600">1
+class="text-gray-700
+affordable
+access
+class="flex
+to
+features
+class="font-bold">Emily
+powerful
+I
+items-center">
+thought
+month
+mb-4">"As
+were
+ago</span>
+solution.
+</div>
+    a
+small
+business
+JobConnect
+owner,
+needed
+      but
+hiring
+gave
+      companies."</p>
+     <img
+   "6364d3f0f495b6ab9dcf8d3b5c6e0b01"
+text-sm">Founder,
+Testimonial
+shadow-md">
+GreenLeaf
+3 --> <div <div
+class="flex
+Marketing</p>
+class="bg-white
+alt="Michael
+</div>
+Chen"
+   class="w-12
+h-12
+mr-4">
+<div>
+  class="font-bold">Michael
+rounded-full
+  Chen</h4>
+<p
+class="text-gray-600
+   </div>
+</div>
+      <!--
+p-6
+rounded-lg
+    items-center
+mb-4">
+    class="text-yellow-400
+class="fas
+fa-star"></i>
+Pro."</p>
+helped
+class="w-12
+fa-star"></i>
+class="text-gray-600">3
+class="fas
+improve
+class="flex
+"fc490ca45c00b1249bbe3554a4fdf6fb"
+mr-2">
+our by 40%
+rounded-full
+hiring
+<i
+class="fas
+class="fas f
+metrics
+items-center">
+fa-star"></i>
+fa-star-half-alt"></i>
+a-star"></i>
+    <i
+significantly.
+<i
+</div>
+class="fas
+     <i
+<span
+     days
+ago</span>
+</div>
+   class="text-gray-700
+mb-4">"The
+candidate
+tracking
+analytics
+     us
+We've
+      reduced
+time-to-hire
+since
+switching
+JobConnect
+     <div
+<img
+    mr-4">
+alt="Emily
+<div>
+Rodriguez"
+   h-12
+    Rodriguez</h4>
+<p
+class="text-gray-600
+   text-sm">Talent
+</div>
+class="py-16 b
+class="flex fl
+class="space-y-4">
+class="text-blue-500
+Acquisition,
+</section>
+g-white">
+ex-col
+Global
+md:flex-row
+mr-3">
+Corp</p> <
+Interview
+lass="container
+items-start">
+/div>
+</div>
+</div>
+       </div>
+<!--
+Video
+Demo
+-->
+<section
+        <div c
+mx-auto
+px-4">
+     items-center">
+    class="md:w-1/2
+font-bold
+class="text-gray-700
+you to
+mb-10
+mb-6">Revolutionize
+conduct
+md:mb-0
+mb-6">Our
+md:pr-10">
+Interviews</h2>
+<h2
+class="text-3xl
+     Your
+   built-in
+video
+interview
+platform
+      allows
+pre-recorded
+interviews
+   candidates
+anywhere
+live or
+in the
+ from
+world.</p>
+    <div
+class="flex
+   mt-1
+<i <h4
+class="fas
+    fa-check-circle"></i>
+Video
+Calls</h4>
+</div>
+<div>
+class="font-bold">Live
+      interviews
+<p with our
+class="text-gray-600">Conduct
+face-to-face
+  video
+</div>
+</div>
+    class="flex
+high-quality
+items-start">
+platform.</p>
+  <div
+class="text-blue-500
+mt-1
+    mr-3">
+<i
+class="fas
+class="font-bold">Pre-recorded
+time.</p>
+class="text-blue-500
+fa-check-circle"></i>
+</div>
+mr-3">
+</div>
+lass="flex
+<div>
+     Questions</h4>
+  class="text-gray-600">Send
+candidates
+questions
+answer
+    </div>
+<div c
+ class="fas
+items-start">
+ mt-1
+ fa-check-circle"></i>
+</div>
+<div>
+class="font-bold">Collaborative
+Evaluation</h4>
+  an
+<p I Pro
+<div
+<i
+<p and
+tosrc = <h4
+me <div
+have
+<div
+<div <p with
+<div
+<div
+<div
+<h4 <p
+to on <p
+their own
+<div                   <h4<i
+only for big src =
+<h4
+
+<h4
+<div <div <h2 <p
+in and
+p-3 your <p
+p-3 <h4
+<p
+1-2 <div
+<div
+<div
+can <div
+and rate
+class="text-gray-600">Team
+candidate
+class="mt-8
+font-medium
+</button>
+information
+items-center">
+rounded-full
+responses.</p>
+class="video-container
+class="font-bold">Fast
+class="bg-blue-600 t
+bg-blue-600
+hover:bg-blue-700
+safe.</p>
+mr-4">
+class="text-gray-600">Payments
+days.</p>
+</div>
+</div>
+rounded-lg
+</div>
+members
+</div>
+text-white
+class="bg-blue-100
+</div>
+px-6
+transition">
+fa-clock"></i>
+review
+   </div>
+   py-3
+class="flex
+<button
+   rounded-lg
+      Video
+Interviews
+     </div>
+<div
+class="md:w-1/2">
+   shadow-xl
+overflow-hidden">
+    <iframe
+src =
+"0a24ca7cbe977036cf6fcea94f08ad3d"
+  frameborder="0" a
+encrypted-media;
+llow="accelerometer;
+autoplay;
+clipboard-write;
+    gyroscope;
+  allowfullscreen></iframe>
+picture-in-picture"
+ </div>
+</div>
+</div>
+</div>
+</section>
+      <!--
+Bank
+Integration
+Section
+-->
+<section
+     bg-gray-100">
+class="bg-white
+services.</p>
+rounded-full
+to start <div
+<div
+class="container
+rounded-lg
+receiving
+mr-4">
+class="font-bold">Secure
+payments
+class="fas
+mx-auto
+mb-8">
+class="py-16
+ <div
+px-4">
+    shadow-xl
+overflow-hidden">
+    class="md:flex">
+<div
+p-8
+md:p-12">
+ class="text-3xl
+font-bold
+class="md:w-1/2
+  mb-6">Easy
+Payment
+Setup</h2>
+     class="text-gray-700
+mb-6">Connect y
+our
+for your job
+<div
+bank
+account
+    minutes
+postings
+    class="flex
+   items-center">
+class="space-y-4
+ class="bg-blue-100
+text-blue-600
+   <i
+</div>
+<div>
+    Bank
+fa-university"></i>
+  Connection</h4>
+   class="text-gray-600">256-bit
+encryption
+keeps
+financial
+    </div>
+<div
+     <div
+text-blue-600
+   <i
+class="fas
+</div>
+<div>
+      Transfers</h4>
+  deposited
+within
+business
+    <div
+   class="bg-blue-100
+text-blue-600
+class="flex
+items-center">
+  p-3
+rounded-full
+mr-4">
+    class="fas
+fa-globe"></i>
+</div>
+<div>
+    class="font-bold">Global
+Support</h4>
+  class="text-gray-600">Works
+</div>
+<button
+ext-white
+with
+banks
+id="connect-bank-btn"
+countries.</p>
+   </div>
+</div>
+     px-6
+py-3
+rounded-lg
+     font-medium
+hover:bg-blue-700
+transition">
+Connect
+Bank
+     Account
+</button>
+</div>
+<div
+class="md:w-1/2
+bg-blue-50
+     items-center
+justify-center
+"4dd4f2ecc60e00a69c8f20bb3d91b248"
+p-8">
+<img
+    alt="Bank
+Integration"
+   class="rounded-lg
+max-w-md
+w-full">
+</div>
+</div>
+</div>
+      </div>
+<!--
+Social
+Proof
+Section
+-->
+     class="py-12
+</section>
+bg-white">
+<section
+  <div
+mx-auto
+px-4">
+   class="flex
+flex-col
+class="container
+  md:flex-row
+justify-center
+items-center
+     space-y-6
+md:space-y-0
+md:space-x-12">
+   class="text-center">
+class="text-4xl
+font-bold
+   Try
+<i in over 50
+Your
+flex
+<div
+<h4 <p
+src =
+
+<h2
+and p-3
+love to
+<h3
+h-12 flex <i
+<p
+Pro?
+Your
+--> <div
+our
+<p or
+<div
+<div <div
+text-blue-600">10,000+</div>
+ class="text-gray-600">Companies
+class="text-center">
+Community</h2>
+Hiring</div>
+</div>
+   <div
+class="text-4xl
+font-bold
+   text-blue-600">500,000+</div>
+<div
+class="text-gray-600">Jobs
+  Posted</div>
+</div>
+<div
+  text-blue-600">5M+</div>
+class="text-gray-600">Candidates
+class="text-center">
+class="text-4xl
+  font-bold
+  Hired</div>
+</div>
+   class="text-center">
+<div
+class="text-4xl
+font-bold
+   text-blue-600">98%</div>
+<div
+class="text-gray-600">Customer
+  Satisfaction</div>
+</div>
+</div>
+</div>
+</section>
+<!--
+Social
+       Media
+Promotion
+<div -->
+<section
+class="py-16
+bg-blue-600
+     text-white">
+class="text-3xl
+class="container
+font-bold
+mx-auto
+mb-6">Join
+px-4
+text-center">
+     Our
+Growing
+    <p us on
+class="text-xl
+mb-8
+max-w-2xl
+    mx-auto">Follow
+platform
+updates.</p>
+social
+media
+for
+class="flex
+hiring
+tips,
+justify-center
+success
+stories,
+      <div
+    space-x-6
+mb-12">
+href="#"
+<ah-12 flex
+<i c
+class="bg-white
+text-blue-600
+     rounded-full
+hover:bg-blue-100
+w-12
+transition">
+items-center
+justify-center
+    lass="fab
+  </a>
+transition">
+class="bg-white
+items-center
+href="#"
+class="fab
+text-blue-600
+fa-twitter"></i>
+text-blue-600
+fa-facebook-f"></i>
+  p-3
+rounded-full
+    w-12
+<a
+h-12 flex
+<i
+class="bg-white
+ items-center
+justify-center
+hover:bg-blue-100
+    </a>
+<a
+href="#"
+     p-3
+rounded-full
+w-12
+    justify-center
+hover:bg-blue-100
+transition">
+    class="fab
+text-blue-600
+justify-center
+fa-youtube"></i>
+rounded-lg
+feature
+class="bg-blue-600
+font-medium
+class="container
+text-center
+md:flex-row">
+fa-linkedin-in"></i> <
+class="text-2xl
+rounded-full
+hover:bg-blue-100
+mx-auto
+mb-12">Get
+px-4">
+/a>
+w-12
+transition">
+Touch</h2>
+class="md:w-1/2
+href="#"
+<a
+h-12 flex
+<i
+channels!</p>
+rounded-lg
+class="text-3xl
+class="bg-white
+     p-3
+items-center
+    justify-center
+transition">
+class="fab
+  fa-instagram"></i>
+hover:bg-blue-100
+  </a>
+<a
+href="#"
+class="bg-white
+    text-blue-600
+p-3 r
+ounded-full
+w-12
+h-12 flex <i
+items-center
+    transition">
+class="fab
+    </a>
+max-w-3xl
+</div>
+<div
+mx-auto">
+class="bg-white
+class="flex
+md:mb-0
+text-gray-800
+     p-6
+<h3
+class="text-2xl
+    font-bold
+class="mb-6">Have
+mb-4">Share
+Your
+you had
+on our
+Success
+success u
+Story</h3>
+     sing
+JobConnect
+<button
+We'd
+     your
+story
+social
+     text-white
+px-6
+py-3
+     Share
+Story
+    </button>
+hover:bg-blue-700
+ </div>
+id="contact"
+</div>
+</section>
+<!--
+Contact
+Section
+       <section
+class="py-16
+bg-white">
+    <h2
+font-bold
+     In
+<div
+flex-col
+     <div
+mb-10
+md:pr-10">
+     font-bold
+mb-4">Contact
+  class="text-gray-700
+mb-6">Have
+questions
+Information</h3>
+  about
+platform
+     <div
+<div
+
+<div
+<h4 <div
+- <h3
+<div
+<div
+<div <div
+out to our <div
+<div               <div
+<p
+<h4
+need
+Hiring
+support?
+class="space-y-4">
+mr-4">
+Street,
+mb-2">Support
+8am - 8pm <div
+class="text-2xl
+class="mb-4">
+mb-2">Name</label>
+Reach
+class="font-bold">Phone</h4>
+123-4567</p>
+class="fas
+</div>
+500<br>San
+font-bold
+<input
+mb-4">Send
+team.</p>
+   class="flex i
+fa-phone-alt"></i>
+<p <div
+Francisco,
+type="text"
+tems-start">
+ class="text-blue-600
+mt-1
+mr-4">
+<i
+class="fas
+fa-envelope"></i>
+ </div>
+<div>
+<h4
+class="font-bold">Email</h4>
+   class="text-gray-600">support@jobconnectpro.com</p>
+</div>
+class="text-gray-600">+1
+94107</p>
+class="text-gray-600">Monday
+Message</h3>
+<div>
+</div>
+  </div>
+<div
+class="flex
+items-start">
+<div
+class="text-blue-600
+    mt-1
+<i
+      </div>
+(555)
+   </div>
+class="flex
+items-start">
+     class="text-blue-600
+fa-map-marker-alt"></i>
+class="font-bold">Office</h4>
+mt-1
+mr-4">
+</div>
+<i
+class="fas
+    <div>
+   <p
+class="text-gray-600">123
+  Suite
+CA
+       </div>
+</div>
+<div
+class="mt-8">
+<h4
+class="font-bold
+    Hours</h4>
+<p
+   Friday:
+EST</p>
+</div>
+   </div>
+EST<br>Saturday:
+class="md:w-1/2
+bg-gray-100
+9am - 5pm p-8
+Usa
+ rounded-lg">
+    <form>
+     <label
+class="block t
+ext-gray-700
+    class="w-full
+px-4
+py-2
+      border
+rounded-lg
+focus:ring-blue-500">
+focus:outline-none
+</div>
+focus:ring-2
+    <div
+class="mb-4">
+<label
+    class="block
+text-gray-700
+<input
+  type="email"
+class="mb-4">
+mb-2">Subject</label>
+mb-2">Email</label>
+  px-4
+class="block
+<select
+py-2
+border
+text-gray-700
+rounded-lg
+    focus:outline-none
+class="w-full
+  focus:ring-2
+focus:ring-blue-500">
+</div>
+    <label
+    class="w-full
+px-4
+py-2
+border
+      rounded-lg
+focus:outline-none f
+ocus:ring-2
+   Support</option>
+class="mb-4">
+mb-2">Message</label>
+Inquiry</option>
+<textarea
+<option>Technical
+text-gray-700
+focus:ring-blue-500">
+ <option>General
+   <option>Billing
+  <option>Feature
+Request</option>
+Question</option>
+ </select>
+</div>
+    <label
+class="block
+    rows="4"
+class="w-full
+px-4
+     py-2
+border
+rounded-lg f
+ocus:outline-none
+focus:ring-2
+     focus:ring-blue-500"></textarea>
+class="w-full
+font-medium
+</button>
+--> <div flex
+bg-opacity-50
+class="bg-white
+bg-blue-600
+hover:bg-blue-700
+</form>
+</div>
+id="login-modal"
+items-center j
+rounded-lg s
+text-white
+</div>
+</div>
+transition">
+class="fixed i
+ustify-center
+<button t
+ype="submit"
+    px-6
+py-3 r
+ounded-lg
+      Send
+Message
+     </div>
+</section>
+<!--
+Login
+        Modal
+nset-0
+bg-black
+     z-50
+hidden">
+     hadow-xl
+w-full
+max-w-md">
+     class="p-6">
+<div
+class="flex
+justify-between it
+ems-center
+    mb-6">
+<h3
+class="text-2xl
+font-bold">Login t
+   Account</h3>
+<button
+id="close-login-modal"
+   o Your
+
+<i
+<div
+class="text-gray-500
+fa-times"></i>
+class="mb-4">
+justify-between
+</button>
+hover:text-gray-700">
+</div>
+class="block
+<form
+class="flex
+class="fas
+   id="login-form">
+     <label
+text-gray-700
+    mb-2">Email</label>
+class="w-full
+<input
+ocus:ring-blue-500"
+border
+type="email"
+rounded-lg
+id="login-email"
+    px-4
+py-2
+focus:outline-none
+      focus:ring-2 f
+value="diallo2555@gmail.com">
+   </div>
+<div cl
+id="login-password"
+focus:outline-none
+ass="mb-6">
+class="w-full
+focus:ring-2
+<label
+class="block
+focus:ring-blue-500"
+text-gray-700
+     mb-2">Password</label>
+<input t
+ype="password"
+   px-4
+py-2
+border
+items-center">
+rounded-lg
+         value="Montana22@">
+</div>
+<div
+class="flex
+items-center
+    mb-4">
+<div
+<input
+     type="checkbox"
+class="mr-2">
+<label
+  for="remember-me"
+</div>
+<a
+id="remember-me"
+  class="text-gray-700">Remember
+me</label>
+    password?</a>
+bg-blue-600
+href="#"
+text-white
+class="text-blue-600
+</div> <
+button
+type="submit" c
+hover:underline">Forgot
+   lass="w-full
+     px-6
+py-3
+rounded-lg
+    hover:bg-blue-700
+account?</span>
+ml-2">Sign
+up</a>
+transition
+</div>
+mb-4">
+Login
+class="text-blue-600
+font-medium
+  </button>
+     class="text-center">
+<span cl
+ass="text-gray-600">Don't
+   <a
+href="#"
+hover:underline
+    </form>
+</div>
+</div>
+</div>
+<!--
+        Bank
+Connection
+Modal
+  inset-0
+bg-black
+--> <div flex
+id="bank-modal"
+items-center j
+class="fixed
+      hidden">
+<div <div
+bg-opacity-50
+ustify-center
+  z-50
+shadow-xl
+w-full
+   max-w-2xl">
+class="bg-white
+class="p-6">
+rounded-lg
+   <div
+class="flex
+   items-center
+Bank
+mb-6">
+class="text-2xl
+justify-between
+ <h3
+font-bold">Connect
+     class="flex
+text-white
+Account</h3>
+class="text-gray-500
+items-center
+<button
+id="close-bank-modal"
+   hover:text-gray-700">
+class="w-8
+<i
+class="fas
+   fa-times"></i>
+</button>
+</div>
+<div <div
+class="mb-8">
+    mb-4">
+h-8
+bg-blue-600
+     flex
+ mr-3">1</div>
+rounded-full
+<h4
+items-center
+class="font-bold">Select
+justify-center
+   Your
+Bank</h4>
+   </div>
+rounded-lg
+mx-auto">
+rounded-lg
+<div
+class="ml-11
+hover:bg-gray-50">
+mb-6">
+<div
+class="grid g
+rid-cols-2
+     md:grid-cols-4
+gap-4">
+<button
+class="bank-logo
+border
+     <img
+   "cd8e7918010a87cc619849e00265c9a6"
+</button>
+<button
+alt="Chase"
+class="bank-logo
+class="h-8
+   border
+     <img
+  class="h-8
+border
+hover:bg-gray-50">
+ "3eb26ea9fcfbdb4e68d1a3144716ce05"
+mx-auto">
+rounded-lg
+hover:bg-gray-50">
+alt="Bank
+<img
+class="bank-logo
+America"
+   </button>
+<button
+         "0e62d916a4575401c954e8252ec8b5fc" a
+lt="Wells
+Fargo"
+   class="h-8
+</button>
+<button
+  border
+mx-auto">
+rounded-lg
+hover:bg-gray-50">
+class="bank-logo
+   <img
+    <div
+have an
+Your <div
+p-4 src =
+p-4
+src =
+of
+p-4 src =
+p-4 src =
+
+"028f83c90ef9f50c06d88cf660f9eca9"
+mx-auto">
+</button>
+</div>
+alt="Citi"
+class="h-8
+      class="text-gray-600">Can't
+<div find your
+class="mt-4">
+ bank?
+<a for
+href="#"
+   class="text-blue-600
+it</a></p>
+ </div>
+</div>
+<div h-8
+hover:underline">Search
+  class="flex
+mb-4">
+    bg-gray-300 t
+items-center
+ class="w-8
+ext-white
+rounded-full
+    items-center
+<h4
+ text-gray-400">Enter
+text-white
+mr-3">3</div>
+justify-center
+rounded-full
+<h4
+Your
+mr-3">2</div>
+Credentials</h4>
+items-center
+class="font-bold
+   </div>
+   class="flex
+items-center
+mb-4">
+<div
+class="w-8
+justify-center
+bg-gray-300
+     flex
+    Your
+  Account</h4>
+</div>
+class="font-bold
+text-gray-400">Verify
+  </div>
+<div
+class="bg-gray-100
+    rounded-lg">
+class="text-blue-500
+</div>
+banking
+</div>
+<div>
+credentials
+</div>
+<div
+<h4
+</div>
+class="flex
+</div> <
+items-start">
+   mt-1
+mr-3">
+/div>
+<i
+class="fas
+  mb-1">Security
+fa-lock"></i>
+      Information</h4>
+bank-level
+256-bit
+class="font-bold
+ <p
+class="text-gray-600
+encryption
+text-sm">We
+   to
+protect
+    are
+never
+stored
+your on our
+servers.</p>
+</div>
+      <!--
+Login
+Success T
+oast
+         id="login-toast"
+text-white
+px-6
+class="fixed
+rounded-lg
+bottom-4
+shadow-lg
+right-4
+bg-green-500
+     py-3
+flex
+items-center
+      hidden
+<i
+ mx-auto
+mb-8">
+connecting
+<div>
+z-50">
+<span>Successfully
+fa-times"></i>
+<h4
+Alerts</a></li>
+<div>
+class="fas
+</button>
+<div <h4 c <i cl
+class="text-lg
+class="space-y-2">
+hover:text-white">Career
+class="space-y-2">
+hover:text-white">Post
+class="grid
+lass="text-xl
+fa-check-circle
+</div>
+font-bold
+<!--
+grid-cols-1
+font-bold
+companies
+href="#"
+Footer
+mb-4">For
+class="text-gray-400
+mr-3"></i>
+    logged
+in as
+ <button
+id="close-toast" cl
+diallo2555@gmail.com</span>
+  ass="ml-4">
+<i
+class="fas
+    -->
+<footer
+      class="bg-gray-900 t
+ext-white
+py-12">
+<div
+class="container
+    px-4">
+md:grid-cols-4
+worldwide.</p>
+gap-8
+      mb-4
+     items-center">
+ass="fas
+mr-2"></i>
+   <span>JobConnect
+class="text-gray-400">The
+talent
+Pro</span>
+with
+great
+fa-handshake
+ </h4>
+   most
+comprehensive
+hiring
+platform
+     top
+</div>
+      Candidates</h4>
+     <li><a
+class="text-gray-400
+    hover:text-white">Browse
+Jobs</a></li>
+<li><a
+href="#"
+    class="text-gray-400
+hover:text-white">Create
+Profile</a></li>
+   <li><a
+href="#"
+class="text-gray-400
+  <li><a
+href="#"
+hover:text-white">Job
+      Resources</a></li>
+Job</a></li>
+</ul>
+class="text-gray-400
+</div>
+<div>
+     class="text-lg
+font-bold
+mb-4">For
+Employers</h4>
+    <li><a
+href="#"
+    a
+<li><a
+href="#"
+    class="text-gray-400
+Candidates</a></li>
+hover:text-white">Browse
+  <li><a
+href="#"
+class="text-gray-400
+    information.
+ <div
+<p
+<div flex
+<div h-8
+p-4 <div
+use Your
+-->
+<ul
+<h4
+<ul
+flex <p
+
+hover:text-white">Pricing
+Resources</a></li>
+class="text-gray-400
+fa-instagram"></i>
+closeSidebarButton
+const
+sidebar
+=
+sidebar.classList.remove('open');
+loginButton
+Plans</a></li>
+</div>
+hover:text-white">
+<li><a
+href="#"
+    class="text-gray-400
+hover:text-white">Hiring
+  </ul>
+</div>
+<div>
+<h4
+class="text-lg
+     font-bold
+<ul
+<li><a
+ href="#"
+mb-4">Company</h4>
+class="text-gray-400
+class="space-y-2">
+   hover:text-white">About
+   Us</a></li>
+<li><a
+href="#"
+class="text-gray-400
+    hover:text-white">Careers</a></li>
+<li><a
+href="#"
+   class="text-gray-400
+<li><a
+ class="text-gray-400
+hover:text-white">Contact</a></li>
+  href="#"
+hover:text-white">Blog</a></li>
+   </ul>
+</div>
+</div>
+<div
+class="pt-8
+border-t
+    class="flex
+md:flex-row
+border-gray-800">
+  flex-col
+   items-center">
+<p Pro. All
+<a
+justify-between
+ mb-4
+md:mb-0">
+   JobConnect
+class="text-gray-400
+ rights
+<div cl
+ass="flex
+   space-x-6">
+href="#"
+reserved.</p>
+ class="text-gray-400
+hover:text-white">
+    class="fab
+fa-twitter"></i>
+hover:text-white">
+fa-facebook-f"></i>
+<i
+href="#"
+class="fab
+</a>
+<a <i
+href="#"
+    class="text-gray-400
+hover:text-white">
+class="fab
+   </a>
+<a
+class="text-gray-400
+    fa-linkedin-in"></i>
+</a>
+    href="#"
+<i cl
+ass="fab
+    </a>
+</div>
+</div>
+document.getElementById('close-sidebar');
+</div>
+</footer>
+       <script>
+//
+Mobile
+Menu
+document.getElementById('mobile-menu-button');
+Toggle
+const
+mobileMenuButton
+      const
+  =
+    sidebar.classList.add('open');
+document.getElementById('sidebar');
+ mobileMenuButton.addEventListener('click',
+closeSidebarButton.addEventListener('click',
+document.getElementById('login-btn');
+}); //
+Login
+Modal
+const
+    = =
+const
+   loginModal
+const
+  closeLoginModal
+loginToast
+closeToast
+loginForm
+= =
+document.getElementById('login-modal');
+ = =
+document.getElementById('close-login-modal');
+  const
+document.getElementById('login-form');
+document.getElementById('login-toast');
+const
+    const
+   document.getElementById('close-toast');
+  loginButton.addEventListener('click',
+ loginModal.classList.remove('hidden');
+ closeLoginModal.addEventListener('click',
+loginModal.classList.add('hidden');
+loginForm.addEventListener('submit',
+e.preventDefault();
+ const
+Simple
+email
+==
+validation
+'Montana22@')
+document.getElementById('login-email').value;
+loginToast.classList.remove('hidden');
+'diallo2555@gmail.com'
+loginModal.classList.add('hidden');
+const
+    password
+document.getElementById('login-password').value;
+  if
+(email
+===
+password
+     {
+  toast
+after
+   <div <i
+© 2023
+<a =
+ {       }); {
+() => () =>
+() =>
+}); () => (e) => {
+// Hide
+{
+{       });
+===
+&&
+// 5 seconds
+ 
+=> {       },   } else
+setTimeout(()
+alert('Invalid
+diallo2555@gmail.com\nPassword:
+Remove
+active
+loginToast.classList.add('hidden');
+class
+l.classList.remove('border-blue-500', '
+password.
+For this
+use:\nEmail:
+bankLogos.forEach(l
+5000);
+ email
+or
+demo,
+ Montana22@');
+ closeToast.addEventListener('click',
+ loginToast.classList.add('hidden');
+Bank
+Connection
+Modal
+    const
+bankButton
+= =
+=
+document.getElementById('connect-bank-btn');
+   const
+bankModal
+closeBankModal
+bankModal.classList.add('hidden');
+document.getElementById('bank-modal');
+selection
+const
+    document.getElementById('close-bank-modal');
+  bankButton.addEventListener('click',
+ bankModal.classList.remove('hidden');
+ closeBankModal.addEventListener('click',
+ }); //
+Bank
+const
+    bankLogos
+=
+document.querySelectorAll('.bank-logo');
+  bankLogos.forEach(logo
+=> { l
+ogo.addEventListener('click',
+  from
+all
+logos
+      bg-blue-50');
+  active
+class
+clicked
+to}); }); // logo
+   'bg-blue-50');
+Smooth
+logo.classList.add('border-blue-500',
+ scrolling
+for
+anchor
+    document.querySelectorAll('a[href^="#"]').forEach(anchor
+ anchor.addEventListener('click',
+function
+(e) {
+e.preventDefault();
+   const
+targetId
+=
+this.getAttribute('href');
+const
+targetElement
+     document.querySelector(targetId);
+if
+(targetElement)
+  window.scrollTo({
+top:
+targetElement.offsetTop
+'smooth'
+}); //
+Close
+mobile
+menu
+open
+ sidebar.classList.remove('open');
+</script>
+</body>
+</html>
+   { {
+{ {
+{ // {
+{
+{               if
+} }); });
+() =>       } }); }); //
+() => });
+() => logo
+() => =>
+}); // Add links =>
+= - 80, behavior:
+ 
